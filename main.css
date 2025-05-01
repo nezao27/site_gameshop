@@ -91,7 +91,7 @@ section p {
     height: 24px;
 }
 
-.social-links {
+.social-links li {
     display: inline;
     margin-right: 8px;
 }
